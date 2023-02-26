@@ -24,6 +24,8 @@ public class Homework_0226_1 {
 		st.studentName = "qwe";
 		st.address = "koee";
 		st.showStudentInfo();
+		
+		//git test.
 	}
 
 }
